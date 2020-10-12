@@ -27,6 +27,10 @@
          6. 서로의 반려동물 사진을 올리고 앱 사용자끼리 소통하고 정보를 공유할 수 있음
 
 ## 7주차 과제 
-<img width="300" height="700" 
+<img width="300" height="650" 
  src="https://raw.githubusercontent.com/yujin211/MyFirstRepository/master/Png/7%EC%A3%BC%EC%B0%A8%20%EC%BA%A1%EC%8A%A4%ED%86%A4.PNG"
  width=""></img>
+ 
+ <img width="300" height="650"
+  src="https://raw.githubusercontent.com/yujin211/MyFirstRepository/master/Png/7%EC%A3%BC%EC%B0%A8%20%EC%BA%A1%EC%8A%A4%ED%86%A41.PNG"
+   width=""></img>
