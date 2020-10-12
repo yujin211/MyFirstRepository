@@ -30,7 +30,6 @@
 <img width="300" height="650" 
  src="https://raw.githubusercontent.com/yujin211/MyFirstRepository/master/Png/7%EC%A3%BC%EC%B0%A8%20%EC%BA%A1%EC%8A%A4%ED%86%A4.PNG"
  width=""></img>
- 
  <img width="300" height="650"
   src="https://raw.githubusercontent.com/yujin211/MyFirstRepository/master/Png/7%EC%A3%BC%EC%B0%A8%20%EC%BA%A1%EC%8A%A4%ED%86%A41.PNG"
    width=""></img>
