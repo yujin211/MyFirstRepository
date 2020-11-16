@@ -63,3 +63,11 @@ src="https://github.com/yujin211/MyFirstRepository/blob/master/Png/10%EC%A3%BC%E
   <img width="300" height="650"
  src="https://github.com/yujin211/MyFirstRepository/blob/master/Png/11%EC%A3%BC%EC%B0%A8%20%EC%BA%A1%EC%B2%98_3.PNG?raw=true.PNG"
   width=""></img>
+
+ ## 12주차 과제 (총 2장 첨부)
+ <img width="300" height="650"
+ src="https://github.com/yujin211/MyFirstRepository/blob/master/Png/12%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C%20%EC%BA%A1%EC%B2%981.PNG?raw=true.PNG"
+  width=""></img>
+   <img width="300" height="650"
+ src="https://github.com/yujin211/MyFirstRepository/blob/master/Png/12%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C%20%EC%BA%A1%EC%B2%982.PNG?raw=true.PNG"
+  width=""></img>
